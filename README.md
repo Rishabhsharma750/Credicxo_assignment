@@ -36,9 +36,9 @@ $ python manage.py migrate
 $ python manage.py runserver
 ```
 
-## How to Use
-### Register as Superadmin/Student/Teacher
-#### url 
+# How to Use
+# Register as Superadmin/Student/Teacher
+# url 
 * method: **post**
 * register as superadmin:  **/registeradmin/**
   - example of post data for registration
